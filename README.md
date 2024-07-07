@@ -22,7 +22,7 @@
 
 * Server:  
   * ubuntu-18.04-64bit  
-  * gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)
+  * OpenWrt-SDK-ar71xx-for-linux-i686-gcc-4.8-linaro_uClibc-0.9.33.2
 
 #### 具体流程:  
 Client:  
@@ -30,6 +30,9 @@ Client:
 
 Server:  
 &emsp;编译TCP服务端,并上传到小车系统进行搭建  
+
+#### 个人观感:
+&emsp;没有什么难度,开发板是OpenWrt系统.
 
 #### 界面:
 ![客户端](https://github.com/chengnb/WiFi-Vehicle/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20164129.png)
