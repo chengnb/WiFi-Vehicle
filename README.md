@@ -32,4 +32,4 @@ Server:
 &emsp;编译TCP服务端,并上传到小车系统进行搭建  
 
 #### 界面:
-![image](./屏幕截图 2024-07-07 164129.png)
+![客户端](https://github.com/chengnb/WiFi-Vehicle/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-07-07%20164129.png)
